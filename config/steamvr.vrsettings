@@ -1,0 +1,10 @@
+{
+   "steamvr" : {
+      "requireHmd" : false,
+      "forcedDriver" : "null",
+      "activateMultipleDrivers" : true
+   },
+   "driver_null" : {
+      "enable" : true
+   }
+}
